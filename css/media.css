@@ -1,0 +1,364 @@
+@media (min-width:0px) and (max-width:991px){
+  .navbar-nav{
+    text-align: center;
+  }
+  .nav-link {
+    display: inline-block;
+  }
+  .navbar-light .navbar-nav .nav-link::before{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link::after{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding: 2px;
+}
+}
+@media (max-width:768px){
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link {
+  margin-right: 7px;
+}
+.top-logo {
+  padding: 0;
+  margin: 0;
+  width: 13%;
+}
+.text {
+  font-size: 14px;
+}
+.line span {
+  height: 18px;
+  margin-top: 10px;
+  margin-right: 4px;
+}
+.call i {
+  padding: 0 7px;
+  color: #d6d6d6;
+  line-height: 21px;
+  font-size: 14px;
+}
+.btn-getstand {
+  padding: 13px 10px;
+  font-size: 14px;
+}
+.mb-2 {
+  margin-bottom: -0.5rem!important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+
+  margin-bottom: 3px;
+}
+.features-content h4 {
+  font-size: 24px;
+  margin-bottom: 13px;
+}
+.features-content img {
+  width: 40px;
+  margin-bottom: 15px;
+}
+.feature-right-text h1 {
+  font-size: 22px;
+}
+.template-img img {
+  width: 91%;
+  margin-top: 89px;
+}
+.review-right {
+  width: 200px;
+  height: 200px;
+}
+.review {
+  padding: 115px 44px;
+}
+.review-left {
+  padding: 0px 0;
+}
+.map-left {
+  margin-top: 0;
+}
+.map-left h1 {
+  font-size: 29px;
+  margin-bottom: 21px;
+}
+.space {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.plans {
+
+  padding: 11px 42px;
+}
+.features-top p {
+  width: 100%;
+}
+.download {
+  padding: 45px 0;
+}
+.download-left h1 {
+  font-size: 29px;
+  margin-bottom: 2px;
+}
+
+.btn-download {
+  padding: 8px 21px;
+  font-size: 14px;
+}
+}
+@media (min-width:0px) and (max-width:320px){
+
+}
+@media (min-width:0px) and (max-width:425px){
+  header {
+    padding: 3px 0px;
+}
+  
+  .top-logo {
+    width: 40px;
+}
+.top p {
+  width: 75%;
+  margin: auto;
+}
+.top h1 {
+  font-size: 46px;
+  margin-bottom: 10px;
+}
+.top-logo img {
+  width: 100%;
+}
+.text {
+  font-weight: 500;
+  font-size: 14px;
+}
+.call i {
+  font-size: 12px;
+}
+
+.line span {
+    height: 16px;
+    margin-top: 12px;
+    margin-right: 18px;
+}
+
+.top {
+    text-align: center;
+}
+.feature-section {
+  margin: 0 5px;
+}
+.feature-right-img img {
+  margin-bottom: 8px;
+}
+.feature-section-two-one p {
+ 
+    width: auto;
+   
+}
+.feature-right-text {
+  margin-left: 0;
+}
+.features-content {
+  margin-bottom: 25px;
+}
+.feature-section-two-one-per {
+  display: block;
+}
+.feature-right-img {
+  text-align: center;
+}
+.feature-section-two-one {
+  text-align: center;
+}
+.template-img img {
+  display: none;
+}
+.template-text-sec p {
+  text-align: left;
+}
+.template-text {
+  text-align: center;
+  margin: 0px 10px;
+  margin-bottom: 50px;
+}
+.features-top {
+  margin: 38px 0;
+  margin-bottom: 36px;
+  text-align: center;
+}
+
+.review-right {
+   float: none;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+.review {
+  padding: 83px 0px;
+}
+.review-left {
+  padding: 0;
+  text-align: center;
+}
+.review-left p {
+  width: 100%;
+}
+.review-left h6 {
+  margin-bottom: 24px;
+}
+.map {
+  padding: 0 5px;
+  padding-bottom: 20px;
+}
+.map-left h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.map-left p {
+  margin-bottom: 20px;
+}
+.space {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.plans {
+  margin-bottom: 21px;
+}
+.plan {
+  margin: 0 5px;
+}
+.download-left h1 {
+  text-align: center;
+}
+.download-left p {
+  text-align: center;
+}
+.download-right {
+  text-align: center;
+}
+.btn-download {
+  padding: 7px 14px;
+  font-size: 14px;
+}
+.news-right i.far.fa-paper-plane {
+  right: 23px;
+}
+.wapik {
+  text-align: center;
+}
+footer {
+  margin: 0 15px;
+}
+.news-right {
+  margin-bottom: 28px;
+}
+.icon i.fab.fa-twitter {
+  font-size: 15px;
+  height: 25px;
+  line-height: 25px;
+  width: 25px;
+}
+.icon i.fa-facebook-f {
+  font-size: 15px;
+  height: 25px;
+  line-height: 25px;
+  width: 25px;
+}
+.icon i.fab.fa-instagram {
+  font-size: 15px;
+  height: 25px;
+  line-height: 25px;
+  width: 25px;
+}
+.icon i.fab.fa-dribbble {
+  font-size: 15px;
+  height: 25px;
+  line-height: 25px;
+  width: 25px;
+}
+
+.icon i.fab.fa-github-alt {
+  height: 25px;
+  line-height: 25px;
+  width: 25px;
+  font-size: 15px;
+}
+.footer-bottom {
+  display: block;
+}
+.text p {
+  text-align: center;
+  margin-bottom: 17px;
+}
+.icon {
+  float: unset;
+  text-align: center;
+}
+.navbar-light .navbar-nav .nav-link {
+  margin-right: 0;
+}
+}
+@media (min-width:375px) and (max-width:425px){
+  .top p {
+    padding: 20px;
+}
+.top-logo {
+  width: 75px;
+}
+form {
+  width: 85%;
+  margin: auto;
+}
+.wapik p {
+  padding: 0 39px;
+}
+}
+
+@media (min-width:1024px){
+  .top {
+
+    margin-left: 30px;
+}
+.space {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.plans {
+  padding: 11px 63px;
+}
+.features-top {
+
+  margin-bottom: 70px;
+
+}
+.features-top img {
+  margin-top: 30px;
+}
+.download-left h1 {
+  font-size: 35px;
+}
+.download-left {
+  margin-top: 16px;
+}
+}
+ 
+ @media (min-width:321px) and (max-width:375px){
+ 
+
+
+ }
+ @media (min-width:376px) and (max-width:425px){
+
+ }
+ 
+ @media (min-width:426px) and (max-width:768px){
+
+  
+}
+@media (min-width:789px) and (max-width:1024px){
+  
+}
