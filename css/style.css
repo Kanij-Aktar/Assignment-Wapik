@@ -472,7 +472,12 @@ margin: auto;
   margin-bottom: 2px;
   }
 
-.download-left p{margin: 0;font-size: 14px;color: #83a7a5;font-weight: 500;}
+.download-left p{
+  margin: 0;
+  font-size: 14px;
+  color: #83a7a5;
+  font-weight: 500;
+}
 
 .download-right{
   margin: 0;
